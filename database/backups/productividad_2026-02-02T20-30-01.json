@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1770063300375,
+    "numeroOT": "22622205",
+    "cliente": "22622205",
+    "ciudad": "Bogota",
+    "direccion": "Carrera 96",
+    "fecha": "2026-02-05",
+    "hora": "03:15",
+    "correoDestino": "danner.arias@sti.com.co",
+    "contacto": "",
+    "telefono": "",
+    "tipoServicio": "ENTREGA DE SERVICIO",
+    "servicioPDT": "",
+    "generarPDT": false,
+    "pdtSubido": false,
+    "confirmoNoPDT": true,
+    "observaciones": "",
+    "duracion": "4-8 horas",
+    "consensus": true,
+    "tablaPersonalizada": "",
+    "copiaCC": [],
+    "fechaEnvio": "2026-02-02T20:15:00.375Z",
+    "estado": "Enviado",
+    "rr": ""
+  }
+]
