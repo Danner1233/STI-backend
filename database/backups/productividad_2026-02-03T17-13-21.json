@@ -1,27 +1,5 @@
 [
   {
-    "id": 1770138925717,
-    "numeroOT": "22434288",
-    "cliente": "22434288",
-    "ciudad": "",
-    "direccion": "",
-    "contacto": "",
-    "telefono": "",
-    "lider": "SOTO",
-    "observaciones": "📋 Pendiente: CUPOS ESCAADOS PARA INTERCAMBIO; EN ESPERA",
-    "fecha": "",
-    "hora": "",
-    "correoDestino": "",
-    "tipoServicio": "PENDIENTE",
-    "duracion": "",
-    "consensus": false,
-    "tablaPersonalizada": "",
-    "copiaCC": [],
-    "fechaEnvio": "2026-02-03T17:15:25.717Z",
-    "estado": "Pendiente",
-    "rr": ""
-  },
-  {
     "id": 1770138035615,
     "numeroOT": "22649547",
     "cliente": "22649547",
